@@ -12,9 +12,14 @@ Skript Robots: https://github.com/Verwarmingman/SkriptRobot/wiki
 
 Skript Sellwands: https://github.com/Verwarmingman/SkriptSellwand/wiki
 
+Skript Leaderboards: https://github.com/Verwarmingman/SkriptLeaderboard/wiki
+
+
 Purchase Robots: https://www.mc-market.org/resources/23295/
 
 Purchase Sellwands: https://www.mc-market.org/resources/24604/
+
+Purchase Leaderboards: https://www.mc-market.org/resources/24605/
 
 # Examples and Documentation
 Documentation is available on the following wiki: https://github.com/Verwarmingman/SkriptSellwand/wiki
