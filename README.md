@@ -9,9 +9,11 @@ If you run into any issues, have questions, or want a new feature added, please 
 
 # Links
 Skript Robots: https://github.com/Verwarmingman/SkriptRobot/wiki
+
 Skript Sellwands: https://github.com/Verwarmingman/SkriptSellwand/wiki
 
 Purchase Robots: https://www.mc-market.org/resources/23295/
+
 Purchase Sellwands: https://www.mc-market.org/resources/24604/
 
 # Examples and Documentation
