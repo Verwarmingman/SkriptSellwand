@@ -17,13 +17,13 @@ Skript Leaderboards: https://github.com/Verwarmingman/SkriptLeaderboard/wiki
 Skript Multipliers: https://github.com/Verwarmingman/SkriptMultiplier/wiki
 
 
-Purchase Robots: https://www.mc-market.org/resources/23295/
+Purchase Robots: https://tinyurl.com/3fw3uynm
 
-Purchase Sellwands: https://www.mc-market.org/resources/24604/
+Purchase Sellwands: https://tinyurl.com/yvyxc36a 
 
-Purchase Leaderboards: https://www.mc-market.org/resources/24605/
+Purchase Leaderboards: https://tinyurl.com/yc6znaww
 
-Purchase Multipliers: https://www.mc-market.org/resources/24607/
+Purchase Multipliers: https://tinyurl.com/2p93knku
 
 # Examples and Documentation
 Documentation is available on the following wiki: https://github.com/Verwarmingman/SkriptSellwand/wiki
